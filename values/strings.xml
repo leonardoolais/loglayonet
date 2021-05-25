@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">vale</string>
+    <string name="txt_name">Ingresa tu nombre</string>
+    <string name="txt_password">Crea una contraseña</string>
+    <string name="txt_confirm">confirma contraseña</string>
+    <string name="txt_log">logearme</string>
+</resources>
